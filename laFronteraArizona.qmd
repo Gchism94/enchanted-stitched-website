@@ -1,0 +1,29 @@
+---
+title: "La Frontera Arizona"
+format: 
+  html:
+    title-block-header: none
+toc: false
+---
+
+
+<style>
+  /* Style the header text (optional) */
+  header h1, header p {
+    /* Set the text color to white or any color that contrasts with the background */
+    color: white;
+  }
+</style>
+
+[![](./images/laFonteraCenterLogo.jpeg){fig-align="center" width="400"}](https://casadelosninos.org/how-to-help/donate/?fbclid=IwAR2yEyACPwdzP5jSz8NoZyVc8zsmRwXxxFDyEUplBmwSZoiCy3vB7NCr8w8)
+
+## About La Frontera Arizona
+
+<p class="centered-paragraph">Founded in 1968, La Frontera Center was one of the original 947 community mental health centers established during the initial stages of the community mental health movement. Since its inception, the Center has been committed to the provision of services to the economically disadvantaged and culturally diverse.</p>
+ 
+<p class="centered-paragraph">The Center originally operated with a staff of five people working out of a store front, serving an area of Tucson with the highest rate of unemployment, lowest level of educational attainment, highest arrest rate, highest proportion of welfare recipients, and the largest percentage of families living in crowded conditions.</p>
+ 
+<p class="centered-paragraph">Today, La Frontera Center is the largest nonprofit community behavioral health care organization in southern Arizona, and is in the top 10% nationally, with approximately 500 employees working out of many different locations throughout metropolitan Tucson and the surrounding county.</p>
+ 
+<p class="centered-paragraph">With treatment programs for children, adolescents, and adults, for substance abuse, co-occurring disorders, and serious mental illness, La Frontera provides an accessible, coordinated, and comprehensive network of mental health and substance abuse services for the residents of Pima County. La Frontera also has a long track record of conducting comprehensive program evaluation and obtaining federal demonstration and research grants (CSAP, CSAT, NIDA). Several of La Frontera’s programs have won national awards, and La Frontera has one of the leading dual diagnosis programs in the nation.</p>
+

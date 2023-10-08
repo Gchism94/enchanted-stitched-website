@@ -1,0 +1,54 @@
+---
+format: html
+editor: visual
+---
+
+![](images/conquerTheHillLogo.jpeg){fig-align="center"}
+
+It's that time of year again! Last year, we put together the very first Conquer the Hill event. This event was geared towards women who were survivors of domestic violence, sexual abuse, or in need of support.
+
+THIS YEAR, WE ARE DOING A CO-ED EVENT! Both men and women deal with traumas, pains due to sexual abuse, PTSD, mental health, domestic violence, homelessness, and so much more. What most people don't know is that Tucson is a HUB full of resources to help those in need of recovery services such as therapy, shelter, education, and financial assistance.
+
+This is more than just a climb up a hill! We will be collecting donations to help fund organizations in Tucson that provide these resources all year long. We have put together an incredible team of people who will be helping me work on this to make it a valuable event for everyone. This is not just a one-day thing; we are expanding our resources and knowledge to ensure that everyone has access to anything they may need to continue their healing journey beyond November 5th.
+
+We will be doing raffles throughout the month of October and holding special events to raise money for this cause!
+
+If you are willing to donate some of your services, products, or make a contribution on behalf of your company it would be greatly appreciated!!
+
+We have a link for all money donations available below! Please donate what you can. We have a goal of \$5,000 this year.
+
+|                                                                                                                                                                                                                                                                                                                           |
+|------------------------------------------------------------------------|
+|                                                                                                                                                                                                                                                                                                                           |
+| [![Check out with PayPal](https://www.paypalobjects.com/digitalassets/c/website/marketing/apac/C2/logos-buttons/44_Yellow_CheckOut_Pill_Button.png){alt="Check out with PayPal"}](https://www.paypal.com/pools/c/8XYVMVs1MJ?fbclid=IwAR0jOdtH8m_jHtJzd4pfvhtlfhtSvz9YnkwfzXZphKbaFF_Ohw-a2Lq1teM "Check out with PayPal") |
+
+::: {style="text-align: center;"}
+<img src="https://static.xx.fbcdn.net/images/emoji.php/v9/te4/2/16/1f6a8.png" alt="🚨" width="20" style="vertical-align: middle;"/>
+
+<p style="display: inline; margin: 0;">
+
+<b>MARK THOSE CALENDARS FOR NOVEMBER 5th 5:45am</b>
+
+</p>
+
+<img src="https://static.xx.fbcdn.net/images/emoji.php/v9/te4/2/16/1f6a8.png" alt="🚨" width="20" style="vertical-align: middle;"/>
+
+</p>
+:::
+
+::: {style="text-align: center;"}
+<a href="data:text/calendar;charset=utf8,BEGIN:VCALENDAR%0AVERSION:2.0%0ABEGIN:VEVENT%0ADTSTART:20231105T124500Z%0ASUMMARY:Important Event%0AEND:VEVENT%0AEND:VCALENDAR%0A"
+     download="calendar-event.ics" class="calendar-button"> Download Calendar Event </a>
+:::
+
+::: columns
+::: {.column width="50%"}
+[![Casa de los Niños](images/casaDeLosNinosLogo.png){width="300"}](https://www.facebook.com/casadelosninos?__cft__[0]=AZVVIB1XoU6hadAy44WMlQmPOLzCEtNelFjBnqBiyezvHF_GeXl3KU-dZ1GnAlGoQbI7E2wTfXsqmVB1FEGQ1BhM2_jxRVJ8zSldCqGld1e5hCriYNSDRZvAgUjcouPAFdFOQV7xORnVwUk3Jq4--QCg&__tn__=-]K-R) [![Gospel Rescue Mission](images/gospelRescueMissionLogo.jpeg){width="300"}](https://www.facebook.com/GRMTucson?__cft__[0]=AZVVIB1XoU6hadAy44WMlQmPOLzCEtNelFjBnqBiyezvHF_GeXl3KU-dZ1GnAlGoQbI7E2wTfXsqmVB1FEGQ1BhM2_jxRVJ8zSldCqGld1e5hCriYNSDRZvAgUjcouPAFdFOQV7xORnVwUk3Jq4--QCg&__tn__=-]K-R)
+:::
+
+::: {.column width="50%"}
+[![A Hand Up Not Hand Out](images/handUpNotOutLogo.jpeg){width="300"}](https://www.facebook.com/profile.php?id=100086312253390&__cft__[0]=AZVVIB1XoU6hadAy44WMlQmPOLzCEtNelFjBnqBiyezvHF_GeXl3KU-dZ1GnAlGoQbI7E2wTfXsqmVB1FEGQ1BhM2_jxRVJ8zSldCqGld1e5hCriYNSDRZvAgUjcouPAFdFOQV7xORnVwUk3Jq4--QCg&__tn__=-]K-R) [![I am you 360](images/iAmYouLogo.png){width="300"}](https://www.facebook.com/iamyou360?__cft__[0]=AZVVIB1XoU6hadAy44WMlQmPOLzCEtNelFjBnqBiyezvHF_GeXl3KU-dZ1GnAlGoQbI7E2wTfXsqmVB1FEGQ1BhM2_jxRVJ8zSldCqGld1e5hCriYNSDRZvAgUjcouPAFdFOQV7xORnVwUk3Jq4--QCg&__tn__=-]K-R)
+:::
+:::
+
+[![](images/laFonteraCenterLogo.jpeg){fig-align="center" width="300"}](https://www.facebook.com/LaFronteraArizona?__cft__%5B0%5D=AZVVIB1XoU6hadAy44WMlQmPOLzCEtNelFjBnqBiyezvHF_GeXl3KU-dZ1GnAlGoQbI7E2wTfXsqmVB1FEGQ1BhM2_jxRVJ8zSldCqGld1e5hCriYNSDRZvAgUjcouPAFdFOQV7xORnVwUk3Jq4--QCg&__tn__=-%5DK-R)

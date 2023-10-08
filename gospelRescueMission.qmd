@@ -1,0 +1,26 @@
+---
+title: "Gospel Rescue Mission"
+format: 
+  html:
+    title-block-header: none
+toc: false
+---
+
+
+<style>
+  /* Style the header text (optional) */
+  header h1, header p {
+    /* Set the text color to white or any color that contrasts with the background */
+    color: white;
+  }
+</style>
+
+[![](images/gospelRescueMissionLogo.jpeg){fig-align="center" width="400"}](https://casadelosninos.org/how-to-help/donate/?fbclid=IwAR2yEyACPwdzP5jSz8NoZyVc8zsmRwXxxFDyEUplBmwSZoiCy3vB7NCr8w8)
+
+## Our Mission Statement
+
+<p class="centered-paragraph">Hope. Shelter. Transformation</p>
+
+## Our Vision Statement
+
+<p class="centered-paragraph">We welcome the hungry and hurting; we address their immediate needs; we build authentic relationships; and we share the Gospel so that total transformation happens. The grace of Christ is an amazing gift to be shared with everyone. We dedicate our lives to the homeless and the poor, and we know that God provides complete life change to those who place their trust in Him. Our holistic approach addresses the needs of the whole person—mind, body, and spirit. We work in collaboration with those who are passionate about bringing permanent solutions to the crisis of homelessness.</p>

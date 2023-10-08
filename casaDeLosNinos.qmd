@@ -1,0 +1,22 @@
+---
+title: "Casa de los Niños"
+format: 
+  html:
+    title-block-header: none
+toc: false
+---
+
+
+<style>
+  /* Style the header text (optional) */
+  header h1, header p {
+    /* Set the text color to white or any color that contrasts with the background */
+    color: white;
+  }
+</style>
+
+[![](/images/casaDeLosNinosLogo.png){fig-align="center" width="400"}](https://casadelosninos.org/how-to-help/donate/?fbclid=IwAR2yEyACPwdzP5jSz8NoZyVc8zsmRwXxxFDyEUplBmwSZoiCy3vB7NCr8w8)
+
+## About Casa de los Niños
+
+<p class="centered-paragraph">For over 49 years, Casa de los Niños has served the Tucson community to prevent child abuse and neglect and to support and empower families. We deliver a continuum of evidence-based services to effectively address the needs of children and families within our community.</p>
