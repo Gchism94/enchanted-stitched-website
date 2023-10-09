@@ -1,4 +1,5 @@
 ---
+title-image: /images/conquerTheHillLogo.jpeg
 format: 
   html:
     page-layout: full
@@ -13,7 +14,7 @@ toc: false
 
 <div style="text-align: center;">
   <a href="https://www.facebook.com/events/285344420958713?active_tab=about" class="calendar-button">
-    Click Here!
+    <i class="fab fa-facebook"></i> CLICK HERE!
   </a>
 </div>
 
@@ -29,7 +30,31 @@ We will be doing raffles throughout the month of October and holding special eve
 
 If you are willing to donate some of your services, products, or make a contribution on behalf of your company it would be greatly appreciated!!
 
-We have a link for all money donations available below! Please donate what you can. We have a goal of \$5,000 this year.
+<div style="text-align: center;">
+  <p style="display: inline; margin: 0;">
+   <h5>🚨 MARK THOSE CALENDARS FOR NOVEMBER 5th, 5:45am 🚨</h5></p>
+</div>
+
+<div style="text-align: center;">
+  <a href="data:text/calendar;charset=utf8,BEGIN:VCALENDAR%0AVERSION:2.0%0ABEGIN:VEVENT%0ADTSTART:20231105T124500Z%0ASUMMARY:Important Event%0AEND:VEVENT%0AEND:VCALENDAR%0A"
+     download="calendar-event.ics" class="calendar-button">
+    Download Calendar Event
+  </a>
+</div>
+
+<br>
+
+--- 
+
+# Charities {.charity}
+
+<p class="centered-paragraph">We have 5 organizations we are collecting donations for this year so we are going to need all of your help!!</p>
+
+<p class="centered-paragraph">Help us, help them provide the incredible resources they have for our community!</p>
+
+<p class="charity"><h3>Please donate what you can!</h4></p> 
+
+<p class="centered-paragraph">We have a goal of \$5,000 this year.</p>
 
 <table border="0" cellpadding="10" cellspacing="0" align="center">
   <tr>
@@ -44,31 +69,9 @@ We have a link for all money donations available below! Please donate what you c
   </tr>
 </table>
 
-<div style="text-align: center;">
-  <img src="https://static.xx.fbcdn.net/images/emoji.php/v9/te4/2/16/1f6a8.png" alt="🚨" width="20" style="vertical-align: middle;">
-  <p style="display: inline; margin: 0;"><b>MARK THOSE CALENDARS FOR NOVEMBER 5th 5:45am</b></p>
-  <img src="https://static.xx.fbcdn.net/images/emoji.php/v9/te4/2/16/1f6a8.png" alt="🚨" width="20" style="vertical-align: middle;"></p>
-</div>
-
-<div style="text-align: center;">
-  <a href="data:text/calendar;charset=utf8,BEGIN:VCALENDAR%0AVERSION:2.0%0ABEGIN:VEVENT%0ADTSTART:20231105T124500Z%0ASUMMARY:Important Event%0AEND:VEVENT%0AEND:VCALENDAR%0A"
-     download="calendar-event.ics" class="calendar-button">
-    Download Calendar Event
-  </a>
-</div>
-
---- 
-
-# Charities {.charity}
-
-<p class="centered-paragraph">We have 5 organizations we are collecting donations for this year so we are going to need all of your help!!</p>
-
-<p class="centered-paragraph">Help us, help them provide the incredible resources they have for our community!</p>
-
-
 ::: {.columns}
 
-::: {.column width="50%"}
+::: {.column}
 ## Casa de los Niños {.charity}
 
 [![](images/casaDeLosNinosLogo.png){fig-align="center" width="300"}](casaDeLosNinos.qmd)
@@ -91,10 +94,9 @@ We have a link for all money donations available below! Please donate what you c
   </a>
 </div>
 
-
 :::
 
-::: {.column width="50%"}
+::: {.column}
 
 ## Gospel Rescue Mission {.charity}
 
@@ -120,7 +122,7 @@ We have a link for all money donations available below! Please donate what you c
 
 :::
 
-::: {.column width="50%"}
+::: {.column}
 
 ## A Hand Up Not A Hand Out {.charity}
 
@@ -137,7 +139,7 @@ We have a link for all money donations available below! Please donate what you c
 
 :::
 
-::: {.column width="50%"}
+::: {.column}
 
 ## I Am You 360 {.charity}
 
@@ -160,7 +162,9 @@ We have a link for all money donations available below! Please donate what you c
 
 ## La Frontera Arizona {.charity}
 
-[![](images/laFonteraCenterLogo.jpeg){fig-align="center" width="300"}](laFronteraArizona.qmd)
+<a href="laFronteraArizona.qmd">
+    <img src="images/laFonteraCenterLogo.jpeg" style="width: 300px; display: block; margin: 0 auto;" alt="La Fontera Center Logo" id="responsiveImage">
+</a>
 
 <div style="text-align: center;">
   <a href="https://lafronteraaz.org/">

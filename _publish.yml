@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: e57fedf6-ec09-4fe6-a114-c2584fdd849b
+      url: 'https://fluffy-cassata.netlify.app'

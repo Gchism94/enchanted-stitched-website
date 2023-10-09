@@ -17,6 +17,18 @@ toc: false
 
 [![](./images/iAmYouLogo.png){fig-align="center" width="400"}](https://casadelosninos.org/how-to-help/donate/?fbclid=IwAR2yEyACPwdzP5jSz8NoZyVc8zsmRwXxxFDyEUplBmwSZoiCy3vB7NCr8w8)
 
+<div style="text-align: center;">
+  <a href="https://iamyou360.org/">
+    <i class="fa-solid fa-globe"></i>
+  </a>
+  <a href="https://www.facebook.com/iamyou360">
+    <i class="fab fa-facebook"></i>
+  </a>
+  <a href="https://www.instagram.com/i_am_you_360/">
+    <i class="fa-brands fa-instagram"></i>
+  </a>
+</div>
+
 ## About I Am You 360
 
 <p class="centered-paragraph">I Am You 360 is an award-winning, forward-thinking, progressive, innovative, led by an African American woman is leading in diversity and inclusion Desiree Cook’s lived experience inspired her to revolutionize a movement called “I Am Somebody”.</p>

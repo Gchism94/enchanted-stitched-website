@@ -71,10 +71,25 @@ h1, h2, h3, h4, h5{
   }
 }
 
-.charity h1, h2 {
+.charity h1, h2, h3, h4 {
   text-align: center;
 }
 
 .centered-paragraph {
     text-align: center;
   }
+  
+  .columns {
+  display: flex;
+  flex-wrap: wrap; // Allows wrapping for the columns
+  
+  .column {
+    flex: 1; // This allows the column to take up available space
+    width: 50%; // This sets the default width to 50%
+
+    @media only screen and (max-width: 600px) {
+      width: 100%; // Stacks columns vertically on mobile devices
+    }
+  }
+}
+

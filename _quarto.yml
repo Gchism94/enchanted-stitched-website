@@ -4,6 +4,11 @@ project:
 website:
   title: ⛰️ CONQUER THE HILL 2023
   favicon: /images/conquerTheHillLogo.jpeg
+  twitter-card: true
+  open-graph:
+    site-name: "⛰️ CONQUER THE HILL 2023"
+    locale: en_US
+  site-url: https://fluffy-cassata.netlify.app/
   navbar:
     right:
       - text: Event
