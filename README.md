@@ -1,6 +1,5 @@
-# project-01
+# Enchanted Stitches Website
 
-Project 1 repo for INFO 526 - Fall 2023.
+**Repo for the Enchanted Stitches business website**
 
-#### Disclosure:
-Derived from the original course by Mine Çetinkaya-Rundel @ Duke University
+© Greg Chism, Enchanted Stitches 2023-2024, all rights reserved.

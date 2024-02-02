@@ -2,26 +2,13 @@ project:
   type: website
 
 website:
-  title: ⛰️ CONQUER THE HILL 2023
-  favicon: /images/conquerTheHillLogo.jpeg
+  title: ✨ Enchanted Stitches
+  favicon: /images/logo.png
   twitter-card: true
   open-graph:
-    site-name: "⛰️ CONQUER THE HILL 2023"
+    site-name: "✨ Enchanted Stitches"
     locale: en_US
-  site-url: https://fluffy-cassata.netlify.app/
-  navbar:
-    right:
-      - text: Event
-        href: index.qmd
-      - text: Charities
-        menu:
-          - href: casaDeLosNinos.qmd
-          - href: gospelRescueMission.qmd
-          - href: handUpNotOut.qmd
-          - href: iAmYou360.qmd
-          - href: laFronteraArizona.qmd
-      - text: About
-        href: about.qmd
+  site-url: https://enchanted-st.netlify.app
         
 
 format:
@@ -29,7 +16,6 @@ format:
     page-layout: full
     theme:
       light: [cosmo, style/custom.scss]
-    linkcolor: "#866fa3" 
     toc: true
     code-copy: true
     code-overflow: wrap
