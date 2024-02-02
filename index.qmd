@@ -14,7 +14,13 @@ toc: false
 
 ```{=html}
 <br>
-<p class="centered-paragraph">Hello! I'm Tressa, a Speech-Language Pathologist with a passion for crochet. My craft is more than a hobby; it's a commitment to fostering inclusive learning through sensory-friendly crochet products. Each item I create is designed with care and consideration, offering both beauty and a sense of security. Join me in this unique journey where comfort, learning, and creativity intertwine, one stitch at a time. Whether for yourself or a loved one, I'm here to provide crochet items that are as unique and nurturing as they are inclusive.<br>Let's make the world a cozier, more inclusive place together!
+<p class="centered-paragraph">Hello! I'm Tressa, a Speech-Language Pathologist with a passion for crochet. 
+</p>
+
+<p class="centered-paragraph">My craft is more than a hobby; it's a commitment to fostering inclusive learning through sensory-friendly crochet products. Each item I create is designed with care and consideration, offering both beauty and a sense of security. Join me in this unique journey where comfort, learning, and creativity intertwine, one stitch at a time. Whether for yourself or a loved one, I'm here to provide crochet items that are as unique and nurturing as they are inclusive.
+
+<p class="centered-paragraph">
+Let's make the world a cozier, more inclusive place together!
 </p>
 <br>
 ```
@@ -35,11 +41,21 @@ toc: false
 
 ```{=html}
 <br>
-<p class="centered-paragraph">Follow me on instagram for details about monthly givaways!<br> 
-<b>Follow</b>, <b>Share</b>, and <b>Tag a friend</b> on pinned post to enter. 
+<p class="centered-paragraph">Follow me on instagram for details about monthly givaways!
+</p>
+
+<p class="centered-paragraph"><b>Follow</b>, <b>Share</b>, and <b>Tag a friend</b> on pinned post to enter. 
 </p>
 <br>
 ```
 ![](images/bottomBanner.png){fig-align="center"}
 
 ![](images/bottomLogo.png){fig-align="center"}
+
+```{=html}
+<footer class="site-footer">
+    <p>
+      © Enchanted Stitches 2023-2024
+    </p>
+</footer>
+```

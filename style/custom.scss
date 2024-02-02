@@ -17,7 +17,16 @@ $font-family: "Nunito", sans-serif;
 body {
   font-family: 'Nunito', sans-serif;
   font-size: 1.75rem;
+  margin: 0;
+  padding: 0;
+  min-height: 100%;
+  position: relative;
+
+  @media (max-width: 600px) { // This targets screens with a width of 600px or less
+    font-size: 1rem; // Adjust this value as needed for mobile devices
+  }
 }
+
 
 h1, h2, h3, h4, h5{
   font-family: 'Nunito', sans-serif;
@@ -99,4 +108,17 @@ $mobile-breakpoint: 600px;
   }
 }
 
+.site-footer {
+    width: 100%;
+    background-color: #ffe5fe; 
+    color: #333; 
+    text-align: center;
+    padding: 20px 0; /* Adjust this value based on your footer content */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
+.site-footer p {
+  margin-top: 1rem;
+}
