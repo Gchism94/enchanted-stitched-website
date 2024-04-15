@@ -8,21 +8,27 @@ toc: false
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
-![](images/topBanner.png){fig-align="center"}
+![](images/topBannerTop.svg){fig-align="center" width="100%"}
 
-![](images/aboutMe.png){fig-align="center"}
+![](images/topBanner.svg){fig-align="center" width="100%"}
+
+![](images/aboutMe.svg){fig-align="center" width="100%"}
 
 ```{=html}
-<br>
-<p class="centered-paragraph">Hello! I'm Tressa, a Speech-Language Pathologist with a passion for crochet. 
+<div class="logo-paragraph">
+  <br>
+  <br>
+  <br>
+  <p class="centered-paragraph">Hello! I'm Tressa, a Speech-Language Pathologist with a passion for crochet. 
+  </p>
+  <p class="centered-paragraph">My craft is more than a hobby; it's a commitment to fostering inclusive learning through sensory-friendly crochet products. Each item I create is designed with care and consideration, offering both beauty and a sense of security. Join me in this unique journey where comfort, learning, and creativity intertwine, one stitch at a time. Whether for yourself or a loved one, I'm here to provide crochet items that are as unique and nurturing as they are inclusive.
 </p>
-
-<p class="centered-paragraph">My craft is more than a hobby; it's a commitment to fostering inclusive learning through sensory-friendly crochet products. Each item I create is designed with care and consideration, offering both beauty and a sense of security. Join me in this unique journey where comfort, learning, and creativity intertwine, one stitch at a time. Whether for yourself or a loved one, I'm here to provide crochet items that are as unique and nurturing as they are inclusive.
 
 <p class="centered-paragraph">
 Let's make the world a cozier, more inclusive place together!
 </p>
 <br>
+</div>
 ```
 ```{=html}
 <div class="social-links">
@@ -49,8 +55,6 @@ Let's make the world a cozier, more inclusive place together!
 <br>
 ```
 ![](images/bottomBanner.png){fig-align="center"}
-
-![](images/bottomLogo.png){fig-align="center"}
 
 ```{=html}
 <footer class="site-footer">

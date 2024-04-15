@@ -108,9 +108,19 @@ $mobile-breakpoint: 600px;
   }
 }
 
+.logo-paragraph {
+  background-image: url('images/logo-light.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 500px 500px;
+  height: 500px;
+}
+
+
+
 .site-footer {
     width: 100%;
-    background-color: #ffe5fe; 
+    background-color: #D0E7D2; 
     color: #333; 
     text-align: center;
     padding: 20px 0; /* Adjust this value based on your footer content */
